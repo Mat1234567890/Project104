@@ -18,3 +18,10 @@ height: 300px;
 color:black;
 font-family: 'Harry Potter', sans-serif;
 }
+@font-face {
+    font-family: 'Harry Potter';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Harry Potter'), url(HARRP___.woff) format('woff');
+}
+
